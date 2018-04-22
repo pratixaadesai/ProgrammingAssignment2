@@ -1,6 +1,6 @@
 ## programming assignment week 3 
 
-## This function creates a special "matrix" object 
+## This function first creates a special "matrix" object 
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
